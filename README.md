@@ -33,7 +33,33 @@ Acess link: https://www.kaggle.com/datasets/mirichoi0218/insurance/code?datasetI
 
 
 # 💡 Insights:
+i) The distribution of cost values is not symmetrical; it is positively skewed. This means that the mean of the values is greater than the median, and the mode is lower than the mean and the median.
 
+![image](https://github.com/user-attachments/assets/401afd47-c67e-4630-9290-ed4b7396359e)
+
+ii) This visualization highlights the significant impact of smoking on medical costs, as smokers are more likely to experience higher and more variable healthcare expenses.
+
+![image](https://github.com/user-attachments/assets/c30a87a1-e614-4ab9-89db-49b68c590d0c)
+
+iii) Both males and females have similar cost distributions, with most policyholders having relatively low costs and a few individuals experiencing high medical expenses.
+
+![image](https://github.com/user-attachments/assets/a5ce2182-2f2b-4e26-9f37-ab0964075a2d)
+
+iv) This visualization helps in understanding whether geographical location affects medical costs, showing that while distribution is similar, some regions may have more high-cost cases than others.
+
+![image](https://github.com/user-attachments/assets/6deb8974-c3ed-435c-be5b-5f681655e03a)
+
+v) The BMI distribution is similar for males and females, with most individuals concentrated in the overweight to obese range (25-35 BMI). The violin plot effectively shows both the density and spread of BMI values, highlighting slight differences between genders.
+
+![image](https://github.com/user-attachments/assets/0997ec76-7f0f-4cf4-b56b-a847ff9ee4c9)
+
+vi) While there is a slight trend indicating that individuals with higher BMI may have higher medical costs, the weak correlation (R² = 0.04) suggests that BMI is not a strong factor in predicting charges alone. Other factors likely contribute more significantly to variations in medical costs.
+
+![image](https://github.com/user-attachments/assets/2f10a929-54cf-45a6-889a-5828df0862a6)
+
+vii) The number of children does not appear to have a strong influence on medical charges. There is significant variability in charges across all groups, with some individuals having very high expenses in each category.
+
+![image](https://github.com/user-attachments/assets/42415c8c-6cdb-4c01-b954-10e245952e0e)
 
 # 📌 References:
 1 - https://www.kaggle.com/datasets/mirichoi0218/insurance
