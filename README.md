@@ -63,5 +63,7 @@ vii) The number of children does not appear to have a strong influence on medica
 
 # 📌 References:
 1 - https://www.kaggle.com/datasets/mirichoi0218/insurance
+
 2 - https://www.cdc.gov/nchs/hus/topics/health-care-expenditures.htm
+
 3 - https://www.kff.org/health-policy-101-health-care-costs-and-affordability/?entry=table-of-contents-how-has-u-s-health-care-spending-changed-over-time
