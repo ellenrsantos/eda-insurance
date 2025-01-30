@@ -1,6 +1,7 @@
 # 📊 Exploratory Data Analysis - Medical Cost Personal Datasets.
 
-![image](https://github.com/user-attachments/assets/decff87c-23d3-40ed-b4c6-e1363578aa90)
+![image](https://github.com/user-attachments/assets/9a974bba-4fff-49b4-9654-e6e4bcddd596)
+
 
 # 📜 Context:
 
